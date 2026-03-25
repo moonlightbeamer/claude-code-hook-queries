@@ -6,6 +6,9 @@ const prompt = "Look for duplicate queries in the ./src/queries directory.";
 
 for await (const message of query({
   prompt,
+  options: {
+    allowedTools: ["Read", "Grep", "Edit"]
+  },
 })) {
   console.log(JSON.stringify(message, null, 2));
 }
