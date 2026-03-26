@@ -62,6 +62,10 @@ export function getCustomerByEmail(db: Database, email: string): Promise<any> {
 }
 ```
 
+## Memory
+
+Always read `~/.claude/memory/MEMORY.md` at the start of each conversation and load any referenced memory files that are relevant to the task.
+
 ## Critical Guidance
 
 - Critical: All database queries must be written in the ./src/queries dir
