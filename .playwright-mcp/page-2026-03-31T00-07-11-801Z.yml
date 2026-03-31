@@ -1,0 +1,350 @@
+- generic [active] [ref=e1]:
+  - region "skip navigation":
+    - link "Skip to main content" [ref=e2] [cursor=pointer]:
+      - /url: "#main"
+    - link "Skip to footer" [ref=e3] [cursor=pointer]:
+      - /url: "#footer"
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - navigation "global" [ref=e12]:
+        - text: 
+        - link "Accenture Home" [ref=e14] [cursor=pointer]:
+          - /url: /us-en
+          - img "Accenture" [ref=e16]
+        - toolbar [ref=e19]:
+          - text: 
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - button "What we do" [ref=e22] [cursor=pointer]:
+                - generic [ref=e23]: What we do
+                - generic [ref=e24]: 
+            - listitem [ref=e25]:
+              - link "What we think" [ref=e26] [cursor=pointer]:
+                - /url: /us-en/insights-index
+                - generic [ref=e27]: What we think
+            - listitem [ref=e28]:
+              - button "Who we are" [ref=e29] [cursor=pointer]:
+                - generic [ref=e30]: Who we are
+                - generic [ref=e31]: 
+            - listitem [ref=e32]:
+              - button "Careers" [ref=e33] [cursor=pointer]:
+                - generic [ref=e34]: Careers
+                - generic [ref=e35]: 
+          - text:   
+        - generic [ref=e36]:
+          - link "Search" [ref=e38] [cursor=pointer]:
+            - /url: /us-en/search
+            - generic [ref=e39]: Search
+            - generic [ref=e40]: 
+          - 'button "Country and language selector. Current Country: USA" [ref=e42]':
+            - text: 
+            - generic [ref=e43]: USA
+            - generic [ref=e44]: 
+    - main [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e48] [cursor=pointer]:
+          - img "Faculty joins Accenture to scale AI capabilities" [ref=e51]
+          - generic [ref=e52]:
+            - heading "Faculty joins Accenture to scale AI capabilities" [level=1] [ref=e53]:
+              - generic [ref=e54]: Faculty joins Accenture to scale AI capabilities
+            - link "Read more about Faculty joining Accenture" [ref=e55]:
+              - /url: https://newsroom.accenture.com/news/2026/accenture-completes-acquisition-of-faculty
+              - generic [ref=e56]: Read more
+              - generic [ref=e57]: 
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - 'button "Research Report: Talent Reinventors: Delivering value with and for people" [ref=e63] [cursor=pointer]'
+            - text: 
+            - generic [ref=e64]: Research Report
+            - generic [ref=e65]: "Talent Reinventors: Delivering value with and for people"
+            - generic [ref=e68]:
+              - paragraph [ref=e70]: How can people and AI thrive together? Explore six leadership traits that enable Talent Reinventors to achieve breakthrough results and outperform peers.
+              - 'link "Expand: Talent Reinventors: Delivering value with and for people" [ref=e71] [cursor=pointer]':
+                - /url: /us-en/insights/consulting/talent-reinventors-delivering-value-people-age-ai
+                - generic [ref=e72]: Expand
+                - generic [ref=e73]: 
+          - generic [ref=e74]:
+            - 'button "Research Report: AI innovation is nonstop. Your cloud foundation should be too." [ref=e75] [cursor=pointer]'
+            - text: 
+            - generic [ref=e76]: Research Report
+            - generic [ref=e77]: AI innovation is nonstop. Your cloud foundation should be too.
+            - generic [ref=e80]:
+              - paragraph [ref=e82]: "Modern cloud is the foundation for AI innovation. But data shows: most clouds are not AI-ready. Discover three strategic pathways, each with detailed actions for boosting cloud maturity to unleash the potential of AI."
+              - 'link "Expand: AI innovation is nonstop. Your cloud foundation should be too." [ref=e83] [cursor=pointer]':
+                - /url: /us-en/insights/cloud/ai-ready-cloud-foundation
+                - generic [ref=e84]: Expand
+                - generic [ref=e85]: 
+          - generic [ref=e86]:
+            - 'button "Research Report: The dawn of the agentic deal" [ref=e87] [cursor=pointer]'
+            - text: 
+            - generic [ref=e88]: Research Report
+            - generic [ref=e89]: The dawn of the agentic deal
+            - generic [ref=e92]:
+              - paragraph [ref=e94]: Agentic AI is reshaping M&A. It embeds intelligent systems into operating models and workflows to unlock entirely new value pools. See how leading acquirers build AI into the deal thesis to drive compounding advantage.
+              - 'link "Expand: The dawn of the agentic deal" [ref=e95] [cursor=pointer]':
+                - /url: /us-en/insights/strategy/agentic-ai-reshaping-mergers-and-acquisitions
+                - generic [ref=e96]: Expand
+                - generic [ref=e97]: 
+          - generic [ref=e98]:
+            - 'button "Perspective: Making self-funding supply chains real" [ref=e99] [cursor=pointer]'
+            - text: 
+            - generic [ref=e100]: Perspective
+            - generic [ref=e101]: Making self-funding supply chains real
+            - generic [ref=e107]:
+              - paragraph [ref=e109]: Discover how AI and autonomous technologies create self‑funding supply chains, cutting costs, boosting productivity and enabling end‑to‑end growth.
+              - 'link "Expand: Making self-funding supply chains real" [ref=e110] [cursor=pointer]':
+                - /url: /us-en/insights/supply-chain/making-self-funding-supply-chains-real
+                - generic [ref=e111]: Expand
+                - generic [ref=e112]: 
+          - generic [ref=e113]:
+            - 'button "Research Report: Pulse of Change: What’s top of mind for today’s leaders" [ref=e114] [cursor=pointer]'
+            - text: 
+            - generic [ref=e115]: Research Report
+            - generic [ref=e116]: "Pulse of Change: What’s top of mind for today’s leaders"
+            - generic [ref=e119]:
+              - paragraph [ref=e121]: After two years of rapid AI acceleration, global executives enter 2026 with unmistakable confidence. But beneath the optimism, data shows a series of gaps standing in the way of scale and value.
+              - 'link "Expand: Pulse of Change: January 2025" [ref=e122] [cursor=pointer]':
+                - /url: /us-en/insights/pulse-of-change
+                - generic [ref=e123]: Expand
+                - generic [ref=e124]: 
+          - generic [ref=e125]:
+            - 'button "Research Report: Rewriting platform strategy for agentic AI" [ref=e126] [cursor=pointer]'
+            - text: 
+            - generic [ref=e127]: Research Report
+            - generic [ref=e128]: Rewriting platform strategy for agentic AI
+            - generic [ref=e131]:
+              - paragraph [ref=e133]: Agentic AI is reshaping work and redefining enterprise foundations. To capture its full value, companies must reinvent platforms and align AI, platform and business strategies.
+              - 'link "Expand: Rewriting platform strategy for agentic AI" [ref=e134] [cursor=pointer]':
+                - /url: /us-en/insights/strategy/new-rules-platform-strategy-agentic-ai
+                - generic [ref=e135]: Expand
+                - generic [ref=e136]: 
+          - generic [ref=e137]:
+            - 'button "Research Report: The age of co-intelligence" [ref=e138] [cursor=pointer]'
+            - text: 
+            - generic [ref=e139]: Research Report
+            - generic [ref=e140]: The age of co-intelligence
+            - generic [ref=e143]:
+              - paragraph [ref=e145]: The age of co-intelligence is here as humans and AI collaborate to drive growth, redeploy talent and turn skills into measurable value across business and society.
+              - 'link "Expand: The age of co-intelligence" [ref=e146] [cursor=pointer]':
+                - /url: /us-en/insights/strategy/age-of-co-intelligence
+                - generic [ref=e147]: Expand
+                - generic [ref=e148]: 
+          - generic [ref=e149]:
+            - 'button "Research Report: Sovereign AI: From managing risk to accelerating growth" [ref=e150] [cursor=pointer]'
+            - text: 
+            - generic [ref=e151]: Research Report
+            - generic [ref=e152]: "Sovereign AI: From managing risk to accelerating growth"
+            - generic [ref=e155]:
+              - paragraph [ref=e157]: Sovereign AI isn’t just a control play—it’s a game-changer for global competitiveness and cultural value. Discover how organizations are moving fast to secure their advantage and shape AI’s future, following four bold moves.
+              - 'link "Expand: Sovereign AI: From managing compliance to creating new markets" [ref=e158] [cursor=pointer]':
+                - /url: /us-en/insights/technology/sovereign-ai
+                - generic [ref=e159]: Expand
+                - generic [ref=e160]: 
+        - generic [ref=e171]:
+          - heading "“Companies will have a greater technology landscape, but we need to completely change the narrative to inspire people to paint the future. It is human in the lead, not human in the loop.”" [level=4] [ref=e172]
+          - paragraph [ref=e174]: Julie Sweet
+        - generic [ref=e177]:
+          - generic [ref=e178]:
+            - heading "360° VALUE" [level=2] [ref=e179]
+            - heading "Every day, we embrace change and create value for all our stakeholders around the world." [level=3] [ref=e180]
+          - 'link "See the report: Every day, we create 360° value." [ref=e182] [cursor=pointer]':
+            - /url: /us-en/about/company/integrated-reporting
+            - generic [ref=e183]: See the report
+            - generic [ref=e184]: 
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - generic:
+              - text: 
+              - button "pause automatic slide show" [ref=e188] [cursor=pointer]:
+                - generic [ref=e189]: pause automatic slide show
+                - generic [ref=e190]: 
+            - generic [ref=e191]:
+              - button "show previous slide" [ref=e192] [cursor=pointer]:
+                - generic [ref=e193]: show previous slide
+                - generic [ref=e194]: 
+              - generic [ref=e195]:
+                - generic [ref=e196]: slideText
+                - generic [ref=e197]: "1"
+                - generic [ref=e198]: ofText
+                - generic [ref=e199]: /
+                - generic [ref=e200]: "6"
+              - button "show next slide" [ref=e201] [cursor=pointer]:
+                - generic [ref=e202]: show next slide
+                - generic [ref=e203]: 
+          - generic [ref=e206]:
+            - group "slide 1 of 6" [ref=e207]:
+              - img "Posteitaliane" [ref=e209]
+              - generic [ref=e210]:
+                - heading "Poste Italiane pivots to platform powerhouse" [level=4] [ref=e211]
+                - paragraph [ref=e212]: Italy's postal service has transformed into the country's top integrated service platform, serving 45 million citizens and elevating its role to a national engine for connection, inclusion and innovation.
+                - 'link "Read more: Poste Italiane''s pivot to platform powerhouse" [ref=e213] [cursor=pointer]':
+                  - /url: /us-en/case-studies/data-ai/poste-italianes-pivot-postal-service-platform-powerhouse
+                  - generic [ref=e214]: Read more
+                  - generic [ref=e215]: 
+            - group [ref=e216]:
+              - generic [ref=e218]:
+                - heading [level=4] [ref=e219]: Bristol Myers Squibb uses data and insights to accelerate drug development
+                - paragraph [ref=e220]: The global biopharmaceutical leader is bringing breakthrough therapies to more patients faster by integrating over 30 generative AI-powered solutions across its business.
+                - link [ref=e221] [cursor=pointer]:
+                  - /url: /us-en/case-studies/health/bristol-myers-squibb-accelerates-drug-development-genai
+                  - generic [ref=e222]: Read more
+                  - generic [ref=e223]: 
+            - group [ref=e224]:
+              - generic [ref=e226]:
+                - heading [level=4] [ref=e227]: Sumitomo Metal Mining reimagines materials to drive global innovation
+                - paragraph [ref=e228]: The natural resources company has transformed an existing product as a bold new brand to unlock growth, spark innovation, and address practical applications from sustainable agriculture to energy efficiency.
+                - link [ref=e229] [cursor=pointer]:
+                  - /url: /us-en/case-studies/song/sumitomo-metal-mining-reimagines-materials-drive-global-innovation
+                  - generic [ref=e230]: Read more
+                  - generic [ref=e231]: 
+            - group [ref=e232]:
+              - generic [ref=e234]:
+                - heading [level=4] [ref=e235]: UNICEF builds a foundation for ethical AI
+                - paragraph [ref=e236]: The United Nations agency is developing a unified strategy for AI, helping it stay at the forefront of technological advancements and build a brighter, safer future for children across the world.
+                - link [ref=e237] [cursor=pointer]:
+                  - /url: /us-en/case-studies/data-ai/unicef-ai-strategy
+                  - generic [ref=e238]: Read more
+                  - generic [ref=e239]: 
+            - group [ref=e240]:
+              - generic [ref=e242]:
+                - heading [level=3] [ref=e243]: Noli uses AI to find your perfect beauty match
+                - paragraph [ref=e244]: The beauty tech startup is making shopping simpler and smarter with a powerful data-driven platform that provides personalized beauty recommendations, helping consumers make confident, right-for-them product choices.
+                - link [ref=e245] [cursor=pointer]:
+                  - /url: /us-en/case-studies/song/noli-uses-ai-beat-beauty-jungle-find-your-perfect-match
+                  - generic [ref=e246]: Read more
+                  - generic [ref=e247]: 
+            - group [ref=e248]:
+              - generic [ref=e250]:
+                - heading [level=4] [ref=e251]: Microsoft scales cloud at the speed of AI
+                - paragraph [ref=e252]: The cloud services leader is reinventing its supply chain to meet surging AI demand—doubling data center capacity while boosting speed, resilience and sustainability. Centralized data and digital twin-powered control towers are enabling smarter decisions and unlocking $100M in savings across global operations.
+                - link [ref=e253] [cursor=pointer]:
+                  - /url: /us-en/case-studies/data-ai/microsoft-reaches-sky-scaling-cloud-at-speed-of-ai
+                  - generic [ref=e254]: Read more
+                  - generic [ref=e255]: 
+        - generic [ref=e257]:
+          - heading "Global recognition and awards" [level=2] [ref=e259]
+          - generic [ref=e260]:
+            - generic [ref=e262]:
+              - button "A Leader in Reinvention" [ref=e263]
+              - generic [ref=e264]:
+                - generic:
+                  - generic:
+                    - img:
+                      - generic:
+                        - img
+                - heading [level=3] [ref=e265]: A Leader in Reinvention
+            - generic [ref=e267]:
+              - button "A Great Place To Work®" [ref=e268]
+              - generic [ref=e269]:
+                - generic:
+                  - generic:
+                    - img:
+                      - generic:
+                        - img
+                - heading [level=3] [ref=e270]: A Great Place To Work®
+            - generic [ref=e272]:
+              - button "A Trusted Industry Leader" [ref=e273]
+              - generic [ref=e274]:
+                - generic:
+                  - generic:
+                    - img:
+                      - generic:
+                        - img
+                - heading [level=3] [ref=e275]: A Trusted Industry Leader
+        - generic [ref=e280]:
+          - generic [ref=e281]: Careers
+          - heading "Build a career that's as exciting as the world we're shaping" [level=3] [ref=e282]
+          - paragraph [ref=e283]: Grow personally and professionally in a global company that helps you unlock your full potential.
+          - 'link "Join us: Work at the heart of change" [ref=e284] [cursor=pointer]':
+            - /url: /us-en/careers
+            - generic [ref=e285]: Join us
+            - generic [ref=e286]: 
+        - generic [ref=e288]:
+          - generic [ref=e289]: Accenture news
+          - generic:
+            - generic [ref=e291]:
+              - link "March 25, 2026 Accenture and Anthropic Team to Help Organizations Secure, Scale AI-Driven Cybersecurity Operations" [ref=e293] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-and-anthropic-team-to-help-organizations-secure-scale-ai-driven-cybersecurity-operations
+                - paragraph [ref=e294]: March 25, 2026
+                - heading "Accenture and Anthropic Team to Help Organizations Secure, Scale AI-Driven Cybersecurity Operations" [level=3] [ref=e295]
+              - link "March 24, 2026 Accenture Federal Services Wins NOAA Contract to Modernize National Weather Service Forecast Operations" [ref=e297] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-federal-services-wins-noaa-contract-to-modernize-national-weather-service-forecast-operations
+                - paragraph [ref=e298]: March 24, 2026
+                - heading "Accenture Federal Services Wins NOAA Contract to Modernize National Weather Service Forecast Operations" [level=3] [ref=e299]
+              - link "March 23, 2026 Accenture Invests in DaVinci Commerce to Advance Agentic AI-Led Shopping" [ref=e301] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-invests-in-davinci-commerce-to-advance-agentic-ai-led-shopping
+                - paragraph [ref=e302]: March 23, 2026
+                - heading "Accenture Invests in DaVinci Commerce to Advance Agentic AI-Led Shopping" [level=3] [ref=e303]
+              - link "March 19, 2026 Accenture Reports Second Quarter Fiscal 2026 Results" [ref=e305] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-reports-second-quarter-fiscal-2026-results
+                - paragraph [ref=e306]: March 19, 2026
+                - heading "Accenture Reports Second Quarter Fiscal 2026 Results" [level=3] [ref=e307]
+              - link "March 17, 2026 Accenture and Databricks Accelerate Enterprise Adoption of AI Applications and Agents at Scale" [ref=e309] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-and-databricks-accelerate-enterprise-adoption-of-ai-applications-and-agents-at-scale
+                - paragraph [ref=e310]: March 17, 2026
+                - heading "Accenture and Databricks Accelerate Enterprise Adoption of AI Applications and Agents at Scale" [level=3] [ref=e311]
+              - link "March 16, 2026 Accenture Named Official Partner of Leading Golf Governing Body, The R&A" [ref=e313] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-named-official-partner-of-leading-golf-governing-body-the-r-a
+                - paragraph [ref=e314]: March 16, 2026
+                - heading "Accenture Named Official Partner of Leading Golf Governing Body, The R&A" [level=3] [ref=e315]
+              - link "March 13, 2026 Accenture Announces Reinvention Services Leadership" [ref=e317] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-announces-reinvention-services-leadership
+                - paragraph [ref=e318]: March 13, 2026
+                - heading "Accenture Announces Reinvention Services Leadership" [level=3] [ref=e319]
+              - link "March 3, 2026 Accenture to Acquire Ookla to Strengthen Network Intelligence and Experience with Data and AI For Enterprises" [ref=e321] [cursor=pointer]:
+                - /url: https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises
+                - paragraph [ref=e322]: March 3, 2026
+                - heading "Accenture to Acquire Ookla to Strengthen Network Intelligence and Experience with Data and AI For Enterprises" [level=3] [ref=e323]
+            - button "Play" [ref=e324] [cursor=pointer]:
+              - generic [ref=e325]: Play
+              - generic [ref=e326]: 
+            - text: 
+            - button "Previous" [ref=e327] [cursor=pointer]:
+              - generic [ref=e328]: Previous
+              - generic [ref=e329]: 
+            - button "Next" [ref=e330] [cursor=pointer]:
+              - generic [ref=e331]: Next
+              - generic [ref=e332]: 
+    - contentinfo [ref=e333]:
+      - generic [ref=e338]:
+        - generic [ref=e339]:
+          - heading "Let there be change" [level=4] [ref=e340]
+          - generic [ref=e341]:
+            - generic [ref=e342]:
+              - list [ref=e343]:
+                - listitem [ref=e344]:
+                  - link "Preference Center" [ref=e345] [cursor=pointer]:
+                    - /url: https://privacyportal-de.onetrust.com/ui/#/preferences/multipage/login/74849542-5184-4a3a-8551-7d35999304aa?type=primary
+                - listitem [ref=e346]:
+                  - link "Careers" [ref=e347] [cursor=pointer]:
+                    - /url: /us-en/careers
+                - listitem [ref=e348]:
+                  - link "About Us" [ref=e349] [cursor=pointer]:
+                    - /url: /us-en/about/company-index
+                - listitem [ref=e350]:
+                  - link "Contact Us" [ref=e351] [cursor=pointer]:
+                    - /url: /us-en/about/contact-us
+                - listitem [ref=e352]:
+                  - link "Locations" [ref=e353] [cursor=pointer]:
+                    - /url: /us-en/about/location
+                - listitem [ref=e354]:
+                  - link "Sitemap" [ref=e355] [cursor=pointer]:
+                    - /url: /us-en/support/site-map
+              - list [ref=e356]:
+                - listitem [ref=e357]:
+                  - link "Privacy Statement" [ref=e358] [cursor=pointer]:
+                    - /url: /us-en/support/privacy-policy
+                - listitem [ref=e359]:
+                  - link "Terms & Conditions" [ref=e360] [cursor=pointer]:
+                    - /url: /us-en/support/terms-of-use
+                - listitem [ref=e361]:
+                  - link "Cookie Policy/Settings" [ref=e362] [cursor=pointer]:
+                    - /url: /us-en/support/company-cookies-similar-technology
+                - listitem [ref=e363]:
+                  - link "Accessibility Statement" [ref=e364] [cursor=pointer]:
+                    - /url: /us-en/support/accessibility-statement
+                - listitem [ref=e365]:
+                  - link "Do Not Sell/Share My Personal Information" [ref=e366] [cursor=pointer]:
+                    - /url: /us-en/support/form-do-not-sell-my-personal-information
+            - paragraph [ref=e367]: © 2026 Accenture. All Rights Reserved.
+        - img [ref=e371]
